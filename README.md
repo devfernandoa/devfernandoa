@@ -1,4 +1,4 @@
-### Hello there 👋
+# Hello there 👋
 
 - I'm a 18yo dev studing Computer Engineering student @ Insper
 - My main languages are Python, C# and JS
@@ -8,5 +8,7 @@
 ## Game Dev
 - I do a lot of game dev for fun 
 - [Here](https://fernandoa.itch.io/sling) is a game I made on my spare time
+
+------
 
 - Just bellow this readme I have a few pinned projects that I really enjoyed working on!
