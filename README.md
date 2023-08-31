@@ -6,7 +6,7 @@
 - I really like pop culture references and my favorite movie quote is *"Oh Yes, The Past Can Hurt. But You Can Either Run From It, Or Learn From It."*
 
 ## Game Dev
-- I do a lot of game dev for fun 
+- I do a lot of game dev for fun, mainly using unity or unreal engine 
 - [Here](https://fernandoa.itch.io/sling) is a game I made on my spare time
 
 ------
