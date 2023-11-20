@@ -8,6 +8,9 @@
 - I do a lot of game dev for fun, mainly using unity or unreal engine 
 - [Here](https://fernandoa.itch.io/sling) is a game I made on my spare time
 
+## Firefox extension *Responsive Check*
+- Here is a small project I've done to help me check the responsiveness of any website
+- You can check it out on [this link](https://addons.mozilla.org/pt-BR/firefox/addon/responsive-check/)
 ------
 
 ### Just bellow this readme I have a few pinned projects that I really enjoyed working on!
