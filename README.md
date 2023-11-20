@@ -9,7 +9,7 @@
 - [Here](https://fernandoa.itch.io/sling) is a game I made on my spare time
 
 ## Firefox extension *Responsive Check*
-- Here is a small project I've done to help me check the responsiveness of any website
+- This is a small project I've done to help me check the responsiveness of any website
 - You can check it out on [this link](https://addons.mozilla.org/pt-BR/firefox/addon/responsive-check/)
 ------
 
